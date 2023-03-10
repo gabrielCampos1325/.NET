@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "practica_1_ejercicio_21/1.0.0": {
+        "runtime": {
+          "practica_1_ejercicio_21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practica_1_ejercicio_21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

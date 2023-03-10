@@ -1,0 +1,15 @@
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\bin\Debug\net7.0\practica_1_ejercicio_21.exe
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\bin\Debug\net7.0\practica_1_ejercicio_21.deps.json
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\bin\Debug\net7.0\practica_1_ejercicio_21.runtimeconfig.json
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\bin\Debug\net7.0\practica_1_ejercicio_21.dll
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\bin\Debug\net7.0\practica_1_ejercicio_21.pdb
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\obj\Debug\net7.0\practica_1_ejercicio_21.csproj.AssemblyReference.cache
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\obj\Debug\net7.0\practica_1_ejercicio_21.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\obj\Debug\net7.0\practica_1_ejercicio_21.AssemblyInfoInputs.cache
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\obj\Debug\net7.0\practica_1_ejercicio_21.AssemblyInfo.cs
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\obj\Debug\net7.0\practica_1_ejercicio_21.csproj.CoreCompileInputs.cache
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\obj\Debug\net7.0\practica_1_ejercicio_21.dll
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\obj\Debug\net7.0\refint\practica_1_ejercicio_21.dll
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\obj\Debug\net7.0\practica_1_ejercicio_21.pdb
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\obj\Debug\net7.0\practica_1_ejercicio_21.genruntimeconfig.cache
+G:\Users\gabo-\Desktop\Licenciatura\2do\.NET\proyectosDotnet\Practica 1\practica_1_ejercicio_21\obj\Debug\net7.0\ref\practica_1_ejercicio_21.dll
